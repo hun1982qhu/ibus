@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1716682928
-    default.custom: 1716682876
+    default.custom: 1717329228
     key_bindings: 1716682928
     key_bindings.custom: 0
     punctuation: 1716682928
@@ -50,7 +50,7 @@ key_binder:
     - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
 menu:
-  page_size: 5
+  page_size: 9
 punctuator:
   full_shape:
     " ": {commit: "　"}

@@ -1,0 +1,503 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	1381
+#@/user_id	e20759ef-d2df-41e6-b751-89c12cbdc2a3
+an zhuang 	安裝	c=2 d=1.02117 t=776
+ba 	八	c=1 d=1 t=418
+ba 	把	c=1 d=1 t=578
+ba fa 	拔髮	c=1 d=1 t=539
+ban ben 	版本	c=1 d=1 t=316
+ban fa 	辦法	c=5 d=1.05119 t=1372
+ban jiao 	半角	c=1 d=1 t=1381
+bang ding 	綁定	c=2 d=1.96561 t=1030
+bao chi 	保持	c=1 d=1 t=1072
+bao cun 	保存	c=1 d=1 t=572
+bao cuo 	報錯	c=10 d=1.20633 t=1185
+bei 	被	c=3 d=1.50092 t=1211
+bei dong 	被動	c=1 d=1 t=851
+bi 	比	c=1 d=1 t=1065
+bi ji 	筆記	c=3 d=1.04685 t=1325
+bi xu 	必須	c=2 d=1.67368 t=1210
+bian cheng 	編程	c=3 d=1.57627 t=1016
+bian cheng zhong 	編程中	c=3 d=1.3648 t=1282
+bian hao 	編號	c=1 d=1 t=1055
+bian ji 	編輯	c=2 d=1.13738 t=782
+bian ji qi 	編輯器	c=3 d=2.12367 t=789
+bian liang 	變量	c=1 d=1 t=818
+bian xie 	編寫	c=1 d=1 t=343
+bian yi 	編譯	c=2 d=1.956 t=1192
+biao da 	表達	c=1 d=1 t=1259
+bing 	並	c=3 d=1.09761 t=775
+bing bu shi 	並不是	c=1 d=1 t=488
+bu 	不	c=1 d=1 t=698
+bu fen 	部分	c=1 d=1 t=580
+bu hui 	不會	c=1 d=1 t=166
+bu ju 	佈局	c=1 d=1 t=575
+bu neng 	不能	c=3 d=1.02985 t=1198
+bu quan 	補全	c=2 d=1.70469 t=393
+bu ru 	不如	c=1 d=1 t=1070
+bu shi 	不是	c=1 d=1 t=1264
+bu tong 	不同	c=2 d=1.03652 t=1214
+bu xing 	不行	c=1 d=1 t=134
+bu xu yao 	不需要	c=1 d=1 t=176
+bu yao 	不要	c=1 d=1 t=198
+cai 	才	c=1 d=1 t=159
+cai neng 	才能	c=3 d=2.19633 t=469
+cai xing 	纔行	c=1 d=1 t=139
+can kao 	參考	c=1 d=1 t=740
+can shu 	參數	c=1 d=1 t=1040
+cao zuo 	操作	c=2 d=1.00771 t=1061
+ce lve 	策略	c=2 d=1.55711 t=1062
+cha jian 	插件	c=2 d=1.02945 t=778
+cha xun 	查詢	c=1 d=1 t=1354
+chao shi 	超時	c=1 d=1 t=922
+chen 	陳	c=0 d=0.1 t=408
+chen lao shi 	陳老師	c=1 d=1 t=409
+cheng fa 	乘法	c=1 d=1 t=970
+cheng xu 	程序	c=1 d=1 t=100
+cheng yuan 	成員	c=3 d=2.08734 t=1088
+chi cang 	持倉	c=2 d=1.0973 t=1353
+chi cun 	尺寸	c=1 d=1 t=1074
+chong xin 	重新	c=1 d=1 t=567
+chou xiang 	抽象	c=5 d=4.05686 t=720
+chu le 	除了	c=1 d=1 t=74
+chu wen ti 	出問題	c=1 d=1 t=75
+chuang jian 	創建	c=3 d=2.28391 t=1113
+chuang kou 	窗口	c=3 d=2.82933 t=574
+chun 	純	c=1 d=1.06561 t=711
+chun xu han shu 	純虛函數	c=1 d=1 t=712
+ci shi 	此時	c=1 d=1 t=1230
+cong 	從	c=9 d=3.11559 t=1243
+cong ci 	從此	c=1 d=1 t=498
+cun fang 	存放	c=1 d=1 t=1133
+da kai 	打開	c=6 d=1.95312 t=605
+dai biao 	代表	c=2 d=1.43171 t=1227
+dai li 	代理	c=1 d=1 t=1046
+dai ma 	代碼	c=9 d=2.43446 t=1255
+dan shi 	但是	c=7 d=1.33852 t=1364
+dang 	當	c=1 d=1 t=1168
+dang qian 	當前	c=2 d=1.76338 t=1107
+dao 	到	c=4 d=2.04492 t=1246
+dao di 	到底	c=2 d=1.07887 t=1024
+dao le 	到了	c=1 d=1 t=551
+de 	的	c=80 d=13.4452 t=1368
+de dao 	得到	c=2 d=1.90937 t=80
+di 	地	c=1 d=1 t=1247
+di fang 	地方	c=1 d=1 t=798
+di yi 	第一	c=0 d=0.1 t=1239
+di yi zhen 	第一幀	c=2 d=1.96079 t=1248
+di zhi 	地址	c=3 d=1.07202 t=1110
+diao yong 	調用	c=6 d=2.55354 t=1283
+ding yue 	訂閱	c=1 d=1 t=1044
+dong tai 	動態	c=3 d=2.07808 t=1029
+dou 	都	c=4 d=2.24743 t=833
+dou neng 	都能	c=1 d=1 t=1331
+dui 	對	c=4 d=2.64355 t=1299
+dui ma 	對嗎	c=1 d=1 t=172
+dui xiang 	對象	c=1 d=1 t=1073
+dui yu 	對於	c=1 d=1 t=1143
+dun hao 	頓號	c=1 d=1 t=1369
+duo shao ge 	多少個	c=1 d=1 t=1290
+er 	二	c=2 d=1.06266 t=969
+er shi 	二十	c=2 d=1.99501 t=608
+fa 	發	c=2 d=1.01005 t=1349
+fa dan 	發單	c=1 d=1 t=1344
+fa xian 	發現	c=1 d=1 t=388
+fan shi 	凡是	c=1 d=1 t=1
+fan ti zi 	繁體字	c=1 d=1 t=28
+fang an 	方案	c=1 d=1 t=102
+fang cha 	方差	c=3 d=2.97025 t=989
+fang shi 	方式	c=4 d=2.12938 t=786
+fang wen 	訪問	c=7 d=2.19853 t=1090
+fang wen xin 	訪問新	c=1 d=1 t=1091
+fang zai 	放在	c=1 d=1 t=1138
+fang zhi 	放置	c=1 d=1 t=550
+fei 	非	c=1 d=1 t=1028
+fei chang 	非常	c=1 d=1 t=51
+fen bie 	分別	c=6 d=1.59491 t=1121
+fen ge 	分隔	c=1 d=1 t=447
+fen ge fu 	分隔符	c=2 d=1.01742 t=1250
+fen lei 	分類	c=1 d=1 t=1132
+fen zhong 	分鐘	c=1 d=1 t=1312
+feng kong 	風控	c=1 d=1 t=992
+fou ze 	否則	c=1 d=1 t=162
+fu gai 	覆蓋	c=2 d=1.10915 t=709
+fu wu qi 	服務器	c=10 d=3.20624 t=1244
+fu zhi 	複製	c=2 d=1.9802 t=791
+gai bian 	改變	c=1 d=1 t=1086
+gai wei 	改爲	c=1 d=1 t=29
+gan shen me 	幹什麼	c=2 d=1.20393 t=622
+gao liang 	高亮	c=1 d=1 t=240
+gao xing 	高興	c=1 d=1 t=52
+ge 	個	c=2 d=1.98511 t=1102
+ge bie 	個別	c=1 d=1 t=1087
+ge ge 	各個	c=2 d=1.93239 t=560
+gei 	給	c=2 d=1.67706 t=660
+gong neng 	功能	c=1 d=1 t=113
+gong zuo qu 	工作區	c=2 d=1.90937 t=573
+gou cheng 	構成	c=1 d=1 t=961
+gou jian 	構建	c=1 d=1 t=976
+gu ding 	固定	c=3 d=2.97025 t=988
+gua dan 	掛單	c=2 d=1.97531 t=936
+guan fang 	官方	c=1 d=1 t=338
+guan li 	管理	c=3 d=1.11096 t=1273
+guan lian 	關聯	c=1 d=1 t=522
+guan nian 	觀念	c=2 d=1.99005 t=521
+guan yu 	關於	c=1 d=1 t=730
+gui ze 	規則	c=1 d=1 t=847
+guo cheng zhong 	過程中	c=1 d=1 t=79
+guo nei 	國內	c=3 d=2.77473 t=1315
+hai shi 	還是	c=5 d=1.02412 t=1297
+hai you 	還有	c=1 d=1 t=367
+han shu 	函數	c=9 d=3.43567 t=1292
+han you 	含有	c=1 d=1 t=706
+hang qing 	行情	c=1 d=1 t=1002
+hao xiang 	好像	c=1 d=1 t=314
+hao yang 	好樣	c=1 d=1 t=42
+he 	和	c=15 d=3.44786 t=1380
+he cheng 	合成	c=4 d=3.78413 t=1333
+he cheng qi 	合成器	c=1 d=1 t=1279
+he xin 	核心	c=2 d=1.97045 t=877
+hong 	宏	c=1 d=1 t=1035
+hou 	後	c=2 d=1.03782 t=793
+hou duan 	後端	c=5 d=2.0479 t=1242
+hu dong 	互動	c=4 d=3.12082 t=212
+huan cun 	緩存	c=4 d=2.74372 t=1232
+hui 	會	c=5 d=1.32259 t=1288
+hui fu 	回覆	c=3 d=2.85829 t=657
+hui fu 	恢復	c=1 d=1 t=328
+hui gui 	回歸	c=1 d=1 t=971
+huo 	或	c=1 d=1 t=586
+huo qu 	獲取	c=1 d=1 t=1050
+huo zhe 	或者	c=2 d=1.47001 t=858
+ji 	既	c=1 d=1 t=1147
+ji bie 	級別	c=1 d=1 t=1080
+ji cheng 	繼承	c=4 d=2.27245 t=1092
+ji lei 	基類	c=4 d=3.29348 t=721
+ji lian 	級聯	c=1 d=1 t=615
+ji shi 	即使	c=1 d=1 t=500
+ji suan 	計算	c=3 d=2.08197 t=885
+jia 	加	c=2 d=1.99005 t=822
+jia cha 	價差	c=46 d=30.3576 t=1005
+jian ge 	間隔	c=1 d=1 t=1357
+jian ti 	簡體	c=1 d=1 t=37
+jian ti zi 	簡體字	c=2 d=1.98511 t=34
+jiang 	將	c=6 d=1.19525 t=1174
+jiao 	叫	c=1 d=1 t=843
+jiao ben 	腳本	c=1 d=1 t=734
+jiao yi 	交易	c=7 d=1.49761 t=1267
+jie dao 	接到	c=1 d=1 t=1245
+jie guo 	結果	c=1 d=1 t=973
+jie jue 	解決	c=6 d=1.09652 t=1373
+jie shao 	介紹	c=1 d=1 t=604
+jie shi 	解釋	c=2 d=1.0058 t=1252
+jie shou 	接收	c=4 d=2.63583 t=650
+jie shu 	結束	c=2 d=1.96561 t=1348
+jin xing 	進行	c=3 d=1.01333 t=1303
+jing tai 	靜態	c=1 d=1 t=589
+jing xi hua 	精細化	c=1 d=1 t=1272
+jiu 	九	c=2 d=1.02086 t=1193
+jiu 	就	c=2 d=1.956 t=208
+jiu 	舊	c=1 d=1 t=1346
+jiu hui 	就會	c=1 d=1 t=1184
+jiu neng 	就能	c=2 d=1.00635 t=1194
+jiu xu 	就緒	c=2 d=1.39852 t=641
+kai cang 	開倉	c=1 d=1 t=380
+kai fa 	開發	c=2 d=1.10026 t=1063
+kai ji 	開機	c=1 d=1 t=557
+kan dao 	看到	c=1 d=1 t=465
+kan lai 	看來	c=1 d=1 t=147
+kao bei 	拷貝	c=1 d=1 t=581
+ke 	可	c=2 d=1.0098 t=1090
+ke 	課	c=1 d=1 t=413
+ke hu 	客戶	c=1 d=1 t=164
+ke hu duan 	客戶端	c=7 d=1.36683 t=1100
+ke shi 	可是	c=1 d=1 t=1167
+ke xing 	可行	c=1 d=1 t=103
+ke yi 	可以	c=6 d=1.97033 t=766
+ke yong 	可用	c=1 d=1 t=1108
+kong zhi 	控制	c=4 d=1.46092 t=1339
+ku 	庫	c=1 d=1 t=1222
+lai 	來	c=6 d=1.1767 t=1223
+lai zi 	來自	c=3 d=1.57903 t=638
+lai zi ji 	來自己	c=1 d=1 t=449
+lao shi 	老師	c=0 d=0.1 t=408
+le 	了	c=7 d=1.18049 t=1233
+lei 	類	c=4 d=1.44072 t=1095
+lei xing 	類型	c=2 d=1.98511 t=593
+li lun 	理論	c=1 d=1 t=957
+liang ci 	兩次	c=1 d=1 t=1163
+liang zhong 	兩種	c=4 d=2.18289 t=1204
+lie biao 	列表	c=2 d=1.19889 t=673
+liu 	六	c=1 d=1 t=861
+liu lan qi 	瀏覽器	c=3 d=2.33133 t=205
+lu in 	路in 	c=1 d=1 t=749
+lu jing 	路徑	c=4 d=3.07872 t=750
+lu zhi 	錄製	c=1 d=1 t=1004
+lun xun 	輪詢	c=3 d=2.79404 t=1154
+ma 	嗎	c=16 d=2.09802 t=1376
+mei ge 	每個	c=1 d=1 t=356
+mian 	麪	c=1 d=1 t=819
+ming ming 	命名	c=1 d=1 t=846
+mo kuai 	模塊	c=1 d=1 t=993
+mo xing 	模型	c=1 d=1 t=602
+mu ban 	模板	c=1 d=1 t=946
+na 	那	c=4 d=0.161887 t=1290
+na jiu shi 	那就是	c=1 d=1 t=125
+na me 	那麼	c=1 d=1 t=1157
+na xie 	哪些	c=1 d=1 t=829
+na zhe ge 	那這個	c=1 d=1 t=1291
+nei rong 	內容	c=2 d=1.08086 t=792
+neng 	能	c=3 d=1.02673 t=1049
+neng fou 	能否	c=1 d=1 t=1137
+neng gou 	能夠	c=6 d=5.54811 t=53
+ni 	你	c=2 d=1.95123 t=341
+pai sheng 	派生	c=1 d=1 t=722
+pai sheng lei 	派生類	c=1 d=1 t=672
+pei zhi 	配置	c=13 d=2.88803 t=767
+ping cang 	平倉	c=1 d=1 t=381
+ping wen 	平穩	c=1 d=1 t=963
+pu tong 	普通	c=2 d=1.02193 t=967
+qi 	七	c=3 d=1.01796 t=1359
+qi 	其	c=2 d=1.97531 t=1155
+qi 	起	c=1 d=1 t=807
+qi dong 	啓動	c=10 d=2.74646 t=1101
+qi huo 	期貨	c=3 d=2.77473 t=1316
+qi ta 	其他	c=1 d=1 t=797
+qi zhong 	其中	c=2 d=1.00908 t=1189
+qian 	錢	c=1 d=1 t=1352
+qian duan 	前端	c=3 d=2.27798 t=655
+qian ru 	嵌入	c=1 d=1 t=155
+qian zhui 	前綴	c=2 d=1.96079 t=839
+qie huan 	切換	c=1 d=1 t=1378
+qing 	請	c=2 d=1.0058 t=1251
+qing jiao 	請教	c=1 d=1 t=408
+qing qiu 	請求	c=2 d=1.3624 t=646
+qing xing 	情形	c=1 d=1 t=1266
+qu 	去	c=1 d=1 t=168
+qu bie 	區別	c=3 d=1.50443 t=1033
+qu xian 	曲線	c=1 d=1 t=865
+quan che 	全撤	c=1 d=1 t=923
+quan jiao 	全角	c=1 d=1 t=1379
+que ren 	確認	c=2 d=1.99005 t=1345
+ren he 	任何	c=2 d=1.88692 t=201
+ren ji 	人機	c=1 d=1 t=108
+ri 	日	c=1 d=1 t=1321
+rong qi 	容器	c=3 d=2.74312 t=1141
+ru 	如	c=1 d=1.04705 t=1328
+ru guo 	如果	c=5 d=2.31273 t=1260
+ru he 	如何	c=11 d=1.23878 t=1377
+ru shang mian 	如上面	c=1 d=1 t=1170
+ru xia 	如下	c=2 d=1.00557 t=1326
+ru yu dao 	如遇到	c=1 d=1 t=535
+ruan jian 	軟件	c=2 d=1.92312 t=563
+san 	三	c=2 d=1.08086 t=1358
+san shi ba 	三十八	c=1 d=1 t=423
+san shi liu 	三十六	c=1 d=1 t=421
+san shi qi 	三十七	c=1 d=1 t=422
+san shi wu 	三十五	c=1 d=1 t=420
+shan chu 	刪除	c=2 d=1.97045 t=502
+shang mian 	上面	c=2 d=0.870236 t=1169
+she me 	什麼	c=1 d=1 t=83
+she zhi 	設置	c=6 d=3.29155 t=330
+shen me 	什麼	c=33 d=3.42895 t=1371
+sheng cheng 	生成	c=3 d=2.90737 t=1301
+sheng ji 	升級	c=1 d=1 t=91
+sheng ming 	聲明	c=1 d=1 t=1037
+shi 	是	c=31 d=4.21213 t=1293
+shi 	時	c=6 d=1.0725 t=1182
+shi bu shi 	是不是	c=1 d=1 t=1196
+shi chang 	市場	c=3 d=2.77473 t=1317
+shi hou 	時候	c=2 d=1.06522 t=559
+shi jian 	事件	c=10 d=4.5198 t=1355
+shi jian 	時間	c=1 d=1 t=1356
+shi li dai ma 	示例代碼	c=2 d=1.27527 t=1270
+shi pan 	實盤	c=1 d=1 t=1007
+shi xian 	實現	c=4 d=3.2549 t=214
+shi yi tu 	示意圖	c=1 d=1 t=382
+shi yong 	使用	c=7 d=1.21887 t=1362
+shi yong 	適用	c=1 d=1 t=762
+shou 	收	c=1 d=1 t=425
+shou dao 	收到	c=4 d=2.78579 t=1261
+shou dong 	手動	c=1 d=1 t=894
+shou ji 	手機	c=1 d=1 t=115
+shu ju 	數據	c=5 d=2.3629 t=1003
+shu liang 	數量	c=1 d=1 t=926
+shu ru 	輸入	c=4 d=1.00552 t=1366
+shu ru fa 	輸入法	c=2 d=1.00124 t=1363
+shuo 	說	c=3 d=1.77075 t=353
+shuo ming 	說明	c=1 d=1 t=243
+si 	四	c=1 d=1 t=856
+si da 	四大	c=1 d=1 t=918
+si shi 	四十	c=1 d=1 t=424
+suan fa 	算法	c=7 d=6.32431 t=951
+suo shi 	所示	c=1 d=1.09501 t=1328
+suo yi 	所以	c=1 d=1 t=69
+suo you 	所有	c=1 d=1 t=1043
+ta 	他	c=1 d=1 t=269
+ta 	它	c=1 d=1 t=290
+tao li 	套利	c=1 d=1 t=998
+tao li 	逃離	c=1 d=1 t=997
+te dian 	特點	c=1 d=1 t=866
+ti gong 	提供	c=1 d=1 t=332
+ti huan 	替換	c=1 d=1 t=685
+ti shi 	提示	c=1 d=1 t=528
+tian jia 	添加	c=4 d=2.77223 t=1212
+tiao zheng 	調整	c=1 d=1 t=1304
+tong cheng 	統稱	c=1 d=1 t=842
+tong guo 	通過	c=3 d=1.58106 t=1195
+tong ji 	統計	c=2 d=1.88692 t=996
+tong shi 	同時	c=1 d=1 t=1200
+tong yi ge 	同一個	c=6 d=5.2451 t=1206
+tui 	腿	c=3 d=2.51916 t=906
+tui guang 	推廣	c=1 d=1 t=143
+wan cheng 	完成	c=1 d=1 t=489
+wan zheng 	完整	c=1 d=1 t=491
+wang luo 	網絡	c=2 d=1.9802 t=742
+wang ye 	網頁	c=5 d=1.51627 t=561
+wang zhan 	網站	c=1 d=1 t=95
+wang zhi 	網址	c=2 d=1.8781 t=207
+wei 	爲	c=2 d=1.68729 t=686
+wei jing 	未經	c=1 d=1 t=708
+wei shen me 	爲什麼	c=1 d=1 t=235
+wei tuo 	委託	c=5 d=4.53407 t=1351
+wen dang 	文檔	c=9 d=2.99684 t=1336
+wen jian 	文件	c=10 d=2.85642 t=763
+wen ti 	問題	c=9 d=1.20199 t=1375
+wen zi 	文字	c=1 d=1 t=612
+wo 	我	c=14 d=3.52555 t=1169
+wo men 	我們	c=5 d=4.73363 t=49
+wu 	五	c=1 d=1 t=860
+wu fa 	無法	c=2 d=1.05756 t=1365
+wu yi zhong 	無意中	c=1 d=1 t=480
+xi li du 	細粒度	c=1 d=1 t=1337
+xi tong 	系統	c=1 d=1 t=89
+xia ci 	下次	c=1 d=1 t=556
+xia hua xian 	下劃線	c=1 d=1 t=614
+xia tu 	下圖	c=0 d=0.1 t=1328
+xia tu suo shi 	下圖所示	c=1 d=1 t=1329
+xian 	線	c=5 d=4.73062 t=1330
+xian shi 	顯示	c=1 d=1 t=45
+xiang 	想	c=1 d=1 t=93
+xiang guan 	相關	c=3 d=1.07 t=1075
+xiang mu 	項目	c=2 d=1.94176 t=505
+xiao ban 	小班	c=31 d=21.4588 t=1006
+xiao chu 	消除	c=1 d=1 t=470
+xiao xi 	消息	c=5 d=4.70367 t=458
+xie 	寫	c=2 d=1.18177 t=700
+xie zai 	卸載	c=1 d=1 t=699
+xin 	新	c=4 d=1.83744 t=1350
+xin hao 	信號	c=1 d=1 t=642
+xin xi 	信息	c=5 d=2.92438 t=1263
+xing neng 	性能	c=1 d=1 t=1069
+xiu gai 	修改	c=2 d=1.03782 t=1052
+xu 	虛	c=0 d=0.1 t=575
+xu han shu 	虛函數	c=3 d=2.09131 t=711
+xu lie 	序列	c=1 d=1 t=964
+xu yao 	需要	c=8 d=2.99698 t=1159
+xuan ran 	渲染	c=1 d=1 t=241
+xuan xiang 	選項	c=6 d=2.87749 t=627
+xuan ze 	選擇	c=1 d=1 t=322
+xue xi 	學習	c=3 d=2.92218 t=748
+yao 	要	c=2 d=0.932335 t=467
+yao ru he 	要如何	c=1 d=1 t=468
+ye 	也	c=3 d=1.01412 t=1152
+yi 	易	c=1 d=1 t=1066
+yi ban 	一般	c=1 d=1 t=163
+yi bian 	一遍	c=2 d=1.35169 t=569
+yi duan hua 	一段話	c=1 d=1 t=247
+yi ge 	一個	c=5 d=2.1166 t=483
+yi gong 	一共	c=1 d=1 t=828
+yi hou 	以後	c=1 d=1 t=499
+yi jing 	已經	c=1 d=1 t=544
+yi shang 	以上	c=6 d=2.68442 t=1284
+yi si 	意思	c=10 d=1.8203 t=1229
+yi xia 	一下	c=2 d=1.0058 t=1253
+yi xia 	以下	c=3 d=1.04658 t=1256
+yi yang 	一樣	c=1 d=1 t=1173
+yi zhong 	一種	c=1 d=1 t=1190
+yin qing 	引擎	c=3 d=2.10492 t=941
+yin wei 	因爲	c=1 d=1 t=1127
+yin yong 	引用	c=1 d=1 t=587
+ying gai 	應該	c=1 d=1 t=799
+ying she 	映射	c=1 d=1 t=335
+ying yong 	應用	c=1 d=1 t=146
+yong 	用	c=2 d=1.00641 t=1067
+yong hu 	用戶	c=1 d=1 t=747
+yong yu 	用於	c=2 d=1.91851 t=1122
+you 	又	c=4 d=2.57601 t=815
+you 	有	c=6 d=1.35852 t=1370
+you de 	有的	c=2 d=1.9802 t=821
+you mei you 	有沒有	c=2 d=1.13738 t=570
+yu 	與	c=2 d=1.16948 t=1083
+yu dao 	遇到	c=4 d=2.12252 t=534
+yu ju 	語句	c=1 d=1 t=1257
+yuan cheng 	遠程	c=2 d=1.956 t=107
+yun wei 	運維	c=1 d=1 t=1008
+yun xing 	運行	c=2 d=1.03782 t=733
+zai 	在	c=13 d=1.20343 t=1360
+zen me 	怎麼	c=1 d=1 t=800
+zhan tie 	粘貼	c=1 d=1 t=795
+zhe 	這	c=1 d=0.386505 t=514
+zhe die 	摺疊	c=3 d=1.14026 t=810
+zhe duan 	這段	c=9 d=1.90268 t=1171
+zhe ge 	這個	c=20 d=2.58076 t=1374
+zhe ju 	這句	c=1 d=1 t=1217
+zhe li 	這裏	c=3 d=1.01516 t=1225
+zhe liang 	這兩	c=1 d=1 t=1128
+zhe liang ge 	這兩個	c=1 d=1 t=371
+zhe liang zhong 	這兩種	c=1 d=1 t=1135
+zhe qi zhong 	這其中	c=1 d=1 t=515
+zhe shi 	這是	c=6 d=2.96631 t=303
+zhe xie 	這些	c=2 d=1.94176 t=823
+zhe yang 	這樣	c=1 d=1 t=358
+zhe zhong 	這種	c=4 d=2.03423 t=838
+zhen 	幀	c=0 d=0.1 t=1239
+zhen dui 	針對	c=3 d=2.77473 t=1314
+zheng chang 	正常	c=1 d=1 t=1332
+zheng li 	整理	c=1 d=1 t=1324
+zheng shi 	正式	c=1 d=1 t=841
+zhi chi 	支持	c=2 d=1.97531 t=111
+zhi jie 	直接	c=2 d=1.0542 t=710
+zhi neng 	只能	c=1 d=1 t=355
+zhi qian 	之前	c=1 d=1 t=1300
+zhi shi 	只是	c=3 d=1.59073 t=1298
+zhi xia 	之下	c=1 d=1 t=702
+zhi xing 	執行	c=1 d=1 t=8
+zhi xu yao 	只需要	c=1 d=1 t=179
+zhi yao 	只要	c=1 d=1 t=506
+zhi zhen 	指針	c=1 d=1 t=585
+zhi zuo 	製作	c=1 d=1 t=149
+zhong 	中	c=35 d=4.09875 t=1361
+zhong 	種	c=1 d=1 t=1129
+zhong wen 	中文	c=1 d=1 t=1367
+zhu dong 	主動	c=1 d=1 t=849
+zhu fa 	竹筏	c=1 d=1 t=647
+zhuan 	轉	c=1 d=1 t=1335
+zhuan fa 	轉發	c=1 d=1 t=659
+zhuan fa gei 	轉發給	c=1 d=1 t=648
+zhuan huan 	轉換	c=1 d=1 t=927
+zhuan men 	專門	c=2 d=1.92312 t=167
+zhuang tai 	狀態	c=2 d=1.1108 t=1342
+zi ding yi 	自定義	c=1 d=1 t=279
+zi dong 	自動	c=3 d=2.86013 t=392
+zi ji 	自己	c=1 d=0.688605 t=448
+zi jin 	資金	c=1 d=1 t=864
+zi liao 	資料	c=4 d=3.9407 t=743
+zi mu 	字母	c=1 d=1 t=832
+zi shu 	字數	c=1 d=1 t=48
+zi ti 	字體	c=1 d=1 t=47
+zong he 	綜合	c=4 d=1.61739 t=1268
+zong jie 	總結	c=1 d=1 t=854
+zong shi 	總是	c=1 d=1 t=464
+zui xiao 	最小	c=1 d=1 t=968
+zui xin 	最新	c=1 d=1 t=315
+zui zhong 	最終	c=1 d=1 t=1287
+zuo 	做	c=2 d=1.27527 t=427
+zuo dao 	做到	c=2 d=1.84789 t=36
+zuo shi 	做市	c=2 d=1.97531 t=935
+zuo yi ge 	做一個	c=1 d=1 t=94
+zuo yong 	作用	c=10 d=2.10339 t=809
+zuo yong yu 	作用域	c=2 d=1.99501 t=1097

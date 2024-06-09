@@ -4,7 +4,7 @@ __build_info:
     bopomofo.custom: 0
     bopomofo.schema: 1716682924
     default: 1716682928
-    default.custom: 1716682876
+    default.custom: 1717329228
     grammar: 0
     key_bindings: 1716682928
     key_bindings.custom: 0
@@ -88,7 +88,7 @@ key_binder:
   import_preset: default
 menu:
   alternative_select_keys: ABCDEFGHIJ
-  page_size: 5
+  page_size: 9
 punctuator:
   full_shape:
     " ": {commit: "　"}

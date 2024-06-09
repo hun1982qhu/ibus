@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1716682928
-    default.custom: 1716682876
+    default.custom: 1717329228
     grammar: 0
     key_bindings: 1716682928
     key_bindings.custom: 0
@@ -80,7 +80,7 @@ key_binder:
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 5
+  page_size: 9
 punctuator:
   full_shape:
     " ": {commit: "　"}
@@ -382,6 +382,7 @@ schema:
       * Android open source project
       * Chewing - 新酷音
       * opencc - 開放中文轉換
+
   name: "朙月拼音"
   schema_id: luna_pinyin
   version: 0.26
