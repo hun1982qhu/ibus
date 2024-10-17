@@ -1,5 +1,9 @@
 var:
+<<<<<<< Updated upstream
   last_build_time: 1728983209
+=======
+  last_build_time: 1728517715
+>>>>>>> Stashed changes
   option:
     ascii_punct: false
   previously_selected_schema: luna_pinyin_simp

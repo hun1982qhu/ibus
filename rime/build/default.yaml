@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.7.3
   timestamps:
-    default: 1716682928
-    default.custom: 1717329228
-    key_bindings: 1716682928
+    default: 1728517659
+    default.custom: 1728517659
+    key_bindings: 1728517659
     key_bindings.custom: 0
-    punctuation: 1716682928
+    punctuation: 1728517659
     punctuation.custom: 0
 ascii_composer:
   good_old_caps_lock: true
