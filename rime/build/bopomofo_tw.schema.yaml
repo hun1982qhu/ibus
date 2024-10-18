@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     bopomofo.custom: 0
-    bopomofo.schema: 1716682924
+    bopomofo.schema: 1729289898
     bopomofo_tw.custom: 0
     bopomofo_tw.schema: 1716682924
     default: 1716682928
-    default.custom: 1717329228
+    default.custom: 1729290538
     grammar: 0
     key_bindings: 1716682928
     key_bindings.custom: 0
@@ -90,7 +90,8 @@ key_binder:
   import_preset: default
 menu:
   alternative_select_keys: ABCDEFGHIJ
-  page_size: 9
+  alternative_subtags: "zh-Hans"
+  page_size: 12
 punctuator:
   full_shape:
     " ": {commit: "　"}
@@ -244,6 +245,7 @@ switches:
     reset: 0
     states: ["中文", "西文"]
   - name: full_shape
+    reset: 1
     states: ["半角", "全角"]
   - options: [zh_hant, zh_hans, zh_hant_tw]
     reset: 2

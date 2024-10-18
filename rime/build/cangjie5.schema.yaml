@@ -4,7 +4,7 @@ __build_info:
     cangjie5.custom: 0
     cangjie5.schema: 1716682925
     default: 1716682928
-    default.custom: 1717329228
+    default.custom: 1729290538
     key_bindings: 1716682928
     key_bindings.custom: 0
     punctuation: 1716682928
@@ -73,7 +73,8 @@ key_binder:
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 9
+  alternative_subtags: "zh-Hans"
+  page_size: 12
 punctuator:
   full_shape:
     " ": {commit: "　"}

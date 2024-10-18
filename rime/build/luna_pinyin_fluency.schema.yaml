@@ -2,14 +2,14 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     default: 1716682928
-    default.custom: 1717329228
+    default.custom: 1729290538
     grammar: 0
     key_bindings: 1716682928
     key_bindings.custom: 0
     luna_pinyin.custom: 0
     luna_pinyin.schema: 1716682927
     luna_pinyin_fluency.custom: 0
-    luna_pinyin_fluency.schema: 1716682927
+    luna_pinyin_fluency.schema: 1729290696
     pinyin: 1716682927
     pinyin.custom: 0
     punctuation: 1716682928
@@ -82,7 +82,8 @@ key_binder:
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 9
+  alternative_subtags: "zh-Hans"
+  page_size: 12
 punctuator:
   full_shape:
     " ": {commit: "　"}
