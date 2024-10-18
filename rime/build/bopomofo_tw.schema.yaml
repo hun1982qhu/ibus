@@ -1,18 +1,26 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.7.3
   timestamps:
     bopomofo.custom: 0
+<<<<<<< HEAD
     bopomofo.schema: 1729289898
     bopomofo_tw.custom: 0
     bopomofo_tw.schema: 1716682924
     default: 1716682928
     default.custom: 1729290538
+=======
+    bopomofo.schema: 1728517658
+    bopomofo_tw.custom: 0
+    bopomofo_tw.schema: 1728517658
+    default: 1728517659
+    default.custom: 1728517659
+>>>>>>> a2baedb27c68acad65a402e7ee547d09a8d312dd
     grammar: 0
-    key_bindings: 1716682928
+    key_bindings: 1728517659
     key_bindings.custom: 0
-    punctuation: 1716682928
+    punctuation: 1728517659
     punctuation.custom: 0
-    zhuyin: 1716682924
+    zhuyin: 1728517659
     zhuyin.custom: 0
 custom_phrase:
   db_class: stabledb

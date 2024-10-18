@@ -1,5 +1,13 @@
 var:
+<<<<<<< HEAD
   last_build_time: 1729290708
+=======
+<<<<<<< Updated upstream
+  last_build_time: 1728983209
+=======
+  last_build_time: 1728517715
+>>>>>>> Stashed changes
+>>>>>>> a2baedb27c68acad65a402e7ee547d09a8d312dd
   option:
     ascii_punct: false
   previously_selected_schema: luna_pinyin_simp
