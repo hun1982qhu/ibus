@@ -9,7 +9,7 @@
 # 於重新部署後生效
 
 patch:
-  menu/page_size: 12 #候选词数
+  menu/page_size: 10 #候选词数
   style/horizontal: true # 候选窗水平显示
   menu/alternative_subtags: zh-Hans
   # 定义按键切换策略：

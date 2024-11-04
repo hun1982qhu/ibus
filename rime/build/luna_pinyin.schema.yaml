@@ -1,24 +1,19 @@
 __build_info:
-  rime_version: 1.7.3
+  rime_version: 1.8.5
   timestamps:
-<<<<<<< HEAD
     default: 1716682928
-    default.custom: 1729290538
-=======
-    default: 1728517659
-    default.custom: 1728517659
->>>>>>> a2baedb27c68acad65a402e7ee547d09a8d312dd
+    default.custom: 1730061929
     grammar: 0
-    key_bindings: 1728517659
+    key_bindings: 1716682928
     key_bindings.custom: 0
     luna_pinyin.custom: 0
-    luna_pinyin.schema: 1728517659
-    pinyin: 1728517659
+    luna_pinyin.schema: 1716682927
+    pinyin: 1716682927
     pinyin.custom: 0
-    punctuation: 1728517659
+    punctuation: 1716682928
     punctuation.custom: 0
-    symbols: 1728517659
-    symbols.custom: 1728517659
+    symbols: 1716682928
+    symbols.custom: 1716682876
 custom_phrase:
   db_class: stabledb
   dictionary: ""
@@ -86,7 +81,7 @@ key_binder:
   import_preset: default
 menu:
   alternative_subtags: "zh-Hans"
-  page_size: 12
+  page_size: 10
 punctuator:
   full_shape:
     " ": {commit: "　"}
