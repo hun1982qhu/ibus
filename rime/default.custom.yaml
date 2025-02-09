@@ -24,3 +24,25 @@ patch:
     Shift_R: commit_code
     Control_L: noop
     Control_R: noop
+  schema_list:
+    # 如果你希望只使用明月拼音.简化字，可以把它放在第一项
+    - schema: luna_pinyin_simp
+      # 也可以保留其他方案以便切换
+      # - schema: luna_pinyin
+      # - schema: terra_pinyin
+      # - schema: bopomofo
+  # 针对 luna_pinyin 的自定义
+  "schema/luna_pinyin":
+    switches:
+      - name: simplification
+        # states 中 [0] 是繁体， [1] 是简体，默认 0
+        # 改成下面这样可以让其一上来就处于简体（索引 1）的状态
+        states: ["漢字", "汉字"]
+        reset: 1
+        initial: 1
+  punctuator:
+    symbols:
+      '.': # 半角句号
+        commit: "。"
+      ',': # 半角逗号
+        commit: "，"

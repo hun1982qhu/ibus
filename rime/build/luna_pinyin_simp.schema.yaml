@@ -1,8 +1,8 @@
 __build_info:
-  rime_version: 1.8.5
+  rime_version: 1.10.0
   timestamps:
     default: 1716682928
-    default.custom: 1730061929
+    default.custom: 1739091477
     emoji_suggestion: 1716682932
     emoji_suggestion.custom: 0
     grammar: 0

@@ -9,8 +9,9 @@
 # 於重新部署後生效
 
 patch:
-  menu/page_size: 9 #候选词数
+  menu/page_size: 10 #候选词数
   style/horizontal: true # 候选窗水平显示
+  menu/alternative_subtags: zh-Hans
   # 定义按键切换策略：
   # inline_ascii 在输入法的临时西文编辑区内输入字母、数字、符号、空格等，回车上屏后自动复位到中文
   # commit_text 已输入的候选文字上屏并切换至英文输入模式
