@@ -12,6 +12,8 @@ patch:
   menu/page_size: 10 #候选词数
   style/horizontal: true # 候选窗水平显示
   menu/alternative_subtags: zh-Hans
+  switcher/fold_options: false
+  switcher/abbreviate_options: false
   # 定义按键切换策略：
   # inline_ascii 在输入法的临时西文编辑区内输入字母、数字、符号、空格等，回车上屏后自动复位到中文
   # commit_text 已输入的候选文字上屏并切换至英文输入模式
@@ -25,8 +27,9 @@ patch:
     Control_L: noop
     Control_R: noop
   schema_list:
-    # 如果你希望只使用明月拼音.简化字，可以把它放在第一项
+    # 默认仍使用单次空格上屏的简化字方案；语句流保留为可选方案。
     - schema: luna_pinyin_simp
+    - schema: luna_pinyin_fluency
       # 也可以保留其他方案以便切换
       # - schema: luna_pinyin
       # - schema: terra_pinyin

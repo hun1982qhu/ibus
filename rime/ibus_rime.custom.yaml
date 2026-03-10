@@ -1,0 +1,5 @@
+# ibus_rime.custom.yaml
+# 於重新部署後生效
+
+patch:
+  style/horizontal: true

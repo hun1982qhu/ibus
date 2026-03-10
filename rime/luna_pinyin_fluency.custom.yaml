@@ -1,0 +1,23 @@
+# luna_pinyin_fluency.custom.yaml
+# 於重新部署後生效
+
+patch:
+  # 沿用扩展词库与自定义符号，保持与你当前方案一致的覆盖率和标点习惯。
+  translator/dictionary: luna_pinyin.extended
+  punctuator/import_preset: symbols.custom
+  recognizer/patterns/punct: "^/([a-z]+|[0-9])$"
+
+  # 语句流方案默认使用中文、半角、简体、中文标点。
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: [ 中文, 西文 ]
+    - name: full_shape
+      reset: 0
+      states: [ 半角, 全角 ]
+    - name: simplification
+      reset: 1
+      states: [ 漢字, 汉字 ]
+    - name: ascii_punct
+      reset: 0
+      states: [ 。，, ．， ]
